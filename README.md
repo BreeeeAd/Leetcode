@@ -2,6 +2,7 @@
 Leetcode javascript solution
 
 TOTAL SOLVED : 1 
+
 *EASY*: 1
 *MEDIUM*: 0
 *HARD*: 0
