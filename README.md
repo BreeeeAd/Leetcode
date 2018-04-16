@@ -1,7 +1,7 @@
 # Leetcode
 ![Aaron Swartz](https://leetcode.com/static/images/LeetCode_Sharing.png)
 
-Leetcode Javascript Solution
+## Leetcode Javascript Solution
 
 TOTAL SOLVED : 2 
 
