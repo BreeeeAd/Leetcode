@@ -1,5 +1,6 @@
 # Leetcode
-![Aaron Swartz](https://leetcode.com/static/webpack_bundles/images/LeetCode_nav.4d940ca7.png)
+![Aaron Swartz](https://leetcode.com/static/images/LeetCode_Sharing.png)
+
 Leetcode Javascript Solution
 
 TOTAL SOLVED : 2 
