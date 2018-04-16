@@ -1,5 +1,6 @@
 # Leetcode
-Leetcode javascript solution
+![Aaron Swartz](https://leetcode.com/static/webpack_bundles/images/LeetCode_nav.4d940ca7.png)
+Leetcode Javascript Solution
 
 TOTAL SOLVED : 2 
 
