@@ -3,9 +3,9 @@
 
 ## Leetcode Javascript Solution
 
-### TOTAL SOLVED : 2 
+### TOTAL SOLVED : 3 
 
-**EASY**: 2
+**EASY**: 3
 
 **MEDIUM**: 0
 
@@ -15,4 +15,4 @@
 |----| ----- | -------- | ---------- | ----|
 | 1 | Two Sum | Easy | [Javascript](https://github.com/BreeeeAd/Leetcode/blob/master/Solution/Two%20Sum.js) | 04/16/2018 |
 | 7 | Reverse Integer | Easy | [Javascript](https://github.com/BreeeeAd/Leetcode/blob/master/Solution/Reverse%20Integer.js) | 04/16/2018|
-
+| 344 | Reverse Integer | Easy | [Javascript](https://github.com/BreeeeAd/Leetcode/blob/master/Solution/Reverse%20String) | 04/18/2018|
