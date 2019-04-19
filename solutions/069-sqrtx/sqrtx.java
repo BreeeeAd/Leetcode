@@ -24,19 +24,19 @@
 
 class Solution {
     public int mySqrt(int x) {
-        if (x <= 1) {
-            return x;
+        if (x < 0){
+            return -1;
         }
-        int left = 1;
+        int left = 0;
         int right = Integer.MAX_VALUE;
-        while (left < right -1)  {
+        while (left <  right -1){
             int mid = left + (right - left) /2;
-            if (mid == x / mid) {
+            if (mid == x/ mid){
                 return mid;
-            } else if (mid  < x / mid) {
-                left = mid ;
+            } else if (mid  < x / mid){
+                left = mid;
             } else {
-                right = mid ;
+                right = mid;
             }
         }
         return left;
