@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-04-21 20:39:47
+Update time:  2019-04-23 10:01:08
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **110   /   982** problems
+I have solved **112   /   982** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -228,7 +228,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/226-invert-binary-tree/invert-binary-tree.java)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
-|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
+|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/229-majority-element-ii/majority-element-ii.java)||Medium|
 |230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|||Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/231-power-of-two/power-of-two.java)||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
@@ -902,7 +902,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |972|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
 |974|[reorder-log-files](https://leetcode.com/problems/reorder-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
-|975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)||[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Medium|
+|975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/975-range-sum-of-bst/range-sum-of-bst.java)|[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Medium|
 |976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
 |977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
 |978|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)||[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
