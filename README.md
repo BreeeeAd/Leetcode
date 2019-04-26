@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-04-24 14:57:22
+Update time:  2019-04-26 13:36:29
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **114   /   982** problems
+I have solved **116   /   982** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -35,7 +35,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
-|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)||[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
+|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/020-valid-parentheses/valid-parentheses.java)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/021-merge-two-sorted-lists/merge-two-sorted-lists.java)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/022-generate-parentheses/generate-parentheses.java)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/023-merge-k-sorted-lists/merge-k-sorted-lists.java)|[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
@@ -371,7 +371,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
 |371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)|||Easy|
 |372|[super-pow](https://leetcode.com/problems/super-pow)|||Medium|
-|373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
+|373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/373-find-k-pairs-with-smallest-sums/find-k-pairs-with-smallest-sums.java)||Medium|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/374-guess-number-higher-or-lower/guess-number-higher-or-lower.java)|[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
 |375|[guess-number-higher-or-lower-ii](https://leetcode.com/problems/guess-number-higher-or-lower-ii)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower-ii/)|Medium|
 |376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)||[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
@@ -442,7 +442,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Easy|
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.java)||Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)|||Medium|
-|450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)|||Medium|
+|450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
 |451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|||Medium|
 |452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)|||Medium|
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/453-minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.java)|[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Easy|
@@ -902,7 +902,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |972|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
 |974|[reorder-log-files](https://leetcode.com/problems/reorder-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
-|975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/975-range-sum-of-bst/range-sum-of-bst.java)|[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Medium|
+|975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/975-range-sum-of-bst/range-sum-of-bst.java)|[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Easy|
 |976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
 |977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
 |978|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)||[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
