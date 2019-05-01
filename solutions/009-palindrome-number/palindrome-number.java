@@ -31,24 +31,36 @@
 
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0) {
-            return false;
+        // Solution 1 use extra space ArrayList or StringBuilder
+        // Time O(n + n/2)
+        // Space O(n)
+        // if (x < 0) return false;
+        // StringBuilder sb = new StringBuilder();
+        // while (x > 0) {
+        //     int temp = x % 10;
+        //     sb.append(temp);
+        //     x /= 10;
+        // }
+        // String X = sb.toString();
+        // int i = 0;
+        // int j = X.length() - 1;
+        // while (i < j) {
+        //     if (X.charAt(i) != X.charAt(j)) return false;
+        //     i++;
+        //     j--;
+        // }
+        // return true;
+        
+        //Solution 2 creat a revers number
+        
+        if (x < 0) return false;
+        int origin = x;
+        int res = 0;
+        while( x > 0) {
+            int temp = x % 10;
+            res = res * 10 + temp;
+            x /= 10;
         }
-        List<Integer> nums = new ArrayList<> ();
-        while (x != 0) {
-            nums.add(x % 10);
-            x = x / 10;
-        }
-        int left = 0;
-        int right = nums.size() -1;
-        while (left <= right) {
-            if (nums.get(left) != nums.get(right)) {
-                return false;
-            } else {
-                left++;
-                right--;
-            }
-            }
-        return true;
+        return res == origin;
     }
 }

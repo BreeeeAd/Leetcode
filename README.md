@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-04-27 20:07:22
+Update time:  2019-04-30 20:31:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **117   /   982** problems
+I have solved **122   /   986** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -88,7 +88,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/070-climbing-stairs/climbing-stairs.java)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
-|73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
+|73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/073-set-matrix-zeroes/set-matrix-zeroes.java)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)||[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)||[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
@@ -163,7 +163,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Hard|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
-|148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
+|148|[sort-list](https://leetcode.com/problems/sort-list)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/148-sort-list/sort-list.java)||Medium|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|||Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|||Medium|
@@ -204,7 +204,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |202|[happy-number](https://leetcode.com/problems/happy-number)|||Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/203-remove-linked-list-elements/remove-linked-list-elements.java)||Easy|
 |204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
-|205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|||Easy|
+|205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/205-isomorphic-strings/isomorphic-strings.java)||Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/206-reverse-linked-list/reverse-linked-list.java)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
 |207|[course-schedule](https://leetcode.com/problems/course-schedule)|||Medium|
 |208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree)||[:memo:](https://leetcode.com/articles/implement-trie-prefix-tree/)|Medium|
@@ -229,7 +229,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/229-majority-element-ii/majority-element-ii.java)||Medium|
-|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|||Medium|
+|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/231-power-of-two/power-of-two.java)||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
@@ -238,7 +238,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.java)|[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)|||Medium|
-|239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)||[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
+|239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/239-sliding-window-maximum/sliding-window-maximum.java)|[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|||Medium|
 |242|[valid-anagram](https://leetcode.com/problems/valid-anagram)|[Javascript](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/242-valid-anagram/valid-anagram.js)|[:memo:](https://leetcode.com/articles/valid-anagram/)|Easy|
@@ -522,7 +522,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication)||[:memo:](https://leetcode.com/articles/complex-number-multiplication/)|Medium|
 |538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)||[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Easy|
 |539|[minimum-time-difference](https://leetcode.com/problems/minimum-time-difference)|||Medium|
-|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)|||Medium|
+|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.java)||Medium|
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii)||[:memo:](https://leetcode.com/articles/reverse-string-ii/)|Easy|
 |542|[01-matrix](https://leetcode.com/problems/01-matrix)||[:memo:](https://leetcode.com/articles/01-matrix/)|Medium|
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)||[:memo:](https://leetcode.com/articles/diameter-of-binary-tree/)|Easy|
@@ -998,3 +998,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|||Easy|
 |1096|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||Medium|
 |1097|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|||Hard|
+|1103|[moving-stones-until-consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|||Easy|
+|1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
+|1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
+|1106|[escape-a-large-maze](https://leetcode.com/problems/escape-a-large-maze)|||Hard|
