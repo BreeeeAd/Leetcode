@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-05-01 12:53:38
+Update time:  2019-05-02 22:11:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **122   /   986** problems
+I have solved **124   /   986** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -103,7 +103,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)||[:memo:](https://leetcode.com/articles/maximal-rectangle/)|Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/086-partition-list/partition-list.java)|[:memo:](https://leetcode.com/articles/partition-list/)|Medium|
 |87|[scramble-string](https://leetcode.com/problems/scramble-string)|||Hard|
-|88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)||[:memo:](https://leetcode.com/articles/merge-sorted-arrays/)|Easy|
+|88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/088-merge-sorted-array/merge-sorted-array.java)|[:memo:](https://leetcode.com/articles/merge-sorted-arrays/)|Easy|
 |89|[gray-code](https://leetcode.com/problems/gray-code)|||Medium|
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
@@ -277,7 +277,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:||Easy|
 |277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity)|:lock:||Medium|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/278-first-bad-version/first-bad-version.java)|[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
-|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)|||Medium|
+|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/279-perfect-squares/perfect-squares.java)||Medium|
 |280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode.com/articles/wiggle-sort/)|Medium|
 |281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:||Medium|
 |282|[expression-add-operators](https://leetcode.com/problems/expression-add-operators)||[:memo:](https://leetcode.com/articles/expression-add-operators/)|Hard|
@@ -973,7 +973,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1047|[maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||Easy|
 |1048|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
 |1049|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|||Medium|
-|1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|||Medium|
+|1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)||[:memo:](https://leetcode.com/articles/construct-bst-from-preorder-traversal/)|Medium|
 |1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|||Easy|
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|

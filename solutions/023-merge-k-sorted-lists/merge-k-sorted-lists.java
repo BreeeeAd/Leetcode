@@ -24,22 +24,26 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists == null || lists.length == 0) {
-            return null;
-        }
-        ListNode dummy = new ListNode(0); // when using dummy we always need a another pointer like cur to indecate cur position
-        ListNode tail = dummy;
-        PriorityQueue<ListNode> min = new PriorityQueue<>(lists.length, (a,b) -> a.val - b.val);
-        for (ListNode ln : lists){
-            if (ln != null)
-            min.offer(ln);
-        }
-        while(!min.isEmpty()){
-            tail.next = min.poll();
-            tail = tail.next;
-            if (tail.next != null){
-                min.offer(tail.next);
+        ListNode dummy = new ListNode(0);
+        ListNode cur = dummy;
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(new Comparator<ListNode>(){
+            @Override
+            public int compare(ListNode n1, ListNode n2){
+                if (n1.val == n2.val) return 0;
+                return n1.val < n2.val ? -1 : 1;
             }
+        });
+        for (ListNode node : lists) {
+            if (node != null) {
+                pq.offer(node);
+            }
+        }
+        while (!pq.isEmpty()){
+            cur.next = pq.poll();
+            if (cur.next.next != null) {
+                pq.offer(cur.next.next);
+            }
+            cur = cur.next;
         }
         return dummy.next;
     }
