@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-05-08 12:39:21
+Update time:  2019-05-09 16:21:38
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **151   /   990** problems
+I have solved **153   /   990** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -76,7 +76,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/058-length-of-last-word/length-of-last-word.java)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/060-permutation-sequence/permutation-sequence.java)||Medium|
-|61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
+|61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/061-rotate-list/rotate-list.java)|[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/062-unique-paths/unique-paths.java)||Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/064-minimum-path-sum/minimum-path-sum.java)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
@@ -538,7 +538,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |554|[brick-wall](https://leetcode.com/problems/brick-wall)||[:memo:](https://leetcode.com/articles/brick-wall/)|Medium|
 |555|[split-concatenated-strings](https://leetcode.com/problems/split-concatenated-strings)|:lock:|[:memo:](https://leetcode.com/articles/split-assembled-strings/)|Medium|
 |556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
-|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Easy|
+|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Easy|
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)||[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
 |561|[array-partition-i](https://leetcode.com/problems/array-partition-i)||[:memo:](https://leetcode.com/articles/array-partitioning-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-a-matrix/)|Medium|

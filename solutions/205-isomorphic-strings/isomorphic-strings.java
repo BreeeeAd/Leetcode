@@ -30,12 +30,17 @@
 
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        int [] counts = new int [256];
-        int [] countt = new int [256];
-        for (int i = 0; i < s.length();i++){
-            if (counts[s.charAt(i)] != countt[t.charAt(i)]) return false;
-            counts[s.charAt(i)] = i + 1;
-            countt[t.charAt(i)] = i + 1;
+        if(s == null && t == null) return true;
+        if(s == null || t == null) return false;
+        if(s.length() != t.length()) return false;
+        int[] dicts = new int [256];
+        int[] dictt = new int [256];
+        for(int i = 0; i< s.length();i++){
+            char chs = s.charAt(i);
+            char cht = t.charAt(i);
+            if(dicts[chs] != dictt[cht]) return false;
+            dicts[chs] = i + 1;
+            dictt[cht] = i + 1;
         }
         return true;
     }

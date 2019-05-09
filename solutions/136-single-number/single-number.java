@@ -22,10 +22,16 @@
 
 class Solution {
     public int singleNumber(int[] nums) {
-        int result = 0;
-        for (int num : nums){
-            result ^= num;
+        if(nums == null || nums.length == 0) return -1;
+        if (nums.length == 1) return nums[0];
+        int res = 0;
+        for (int n : nums){
+            res ^= n;
+            // n ^ n == 1;
+            // 1 ^ n == n;
+            // cause there is only one single number, it means the others all show up in pairs
+            // XOR opreation will only have the single one
         }
-        return result;
+        return res;
     }
 }
