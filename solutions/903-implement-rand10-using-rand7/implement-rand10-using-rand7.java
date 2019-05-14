@@ -60,12 +60,23 @@
  * @return a random integer in the range 1 to 7
  */
 class Solution extends SolBase {
+    int [][] p = new int [][]{
+            {1,2,3,4,5,6,7},
+            {8,9,10,1,2,3,4},
+            {5,6,7,8,9,10,1},
+            {2,3,4,5,6,7,8},
+            {9,10,1,2,3,4,5},
+            {6,7,8,9,10,0,0},
+            {0,0,0,0,0,0,0},
+        };
     public int rand10() {
-        while (true) {
-            int num = (rand7() - 1) * 7 + (rand7() - 1);
-            if (num < 40) {
-                return num % 10 + 1;
-            }
+
+        int res = 0;
+        while(res == 0){
+            int i = rand7()-1;
+            int j = rand7()-1;
+            res = p[i][j];
         }
+        return res;
     }
 }

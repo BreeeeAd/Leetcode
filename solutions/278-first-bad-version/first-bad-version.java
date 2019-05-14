@@ -22,17 +22,22 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        int left = 1;
-        int right = n;
-        while (left < right -1) {
-            int mid = left + (right - left) / 2;
+        if (n <2) return 1;
+        int l = 1;
+        int r = n;
+        //  1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+        while(l < r){
+            int mid = l + (r -l) /2;
+            // true with good version
             if (isBadVersion(mid)){
-                right = mid;
-            } else {
-                left = mid;
+                r = mid;
+            // false with bad version    
+            }else {
+                l = mid +1;
             }
         }
-        return isBadVersion(left) ? left : right;
-            
+        if (isBadVersion(l)) return l;
+        if (isBadVersion(r)) return r;
+        return -1;
     }
 }
