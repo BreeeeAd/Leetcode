@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-05-14 01:40:47
+Update time:  2019-05-16 17:13:35
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -72,7 +72,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/055-jump-game/jump-game.java)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/058-length-of-last-word/length-of-last-word.java)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/060-permutation-sequence/permutation-sequence.java)||Medium|
@@ -287,7 +287,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |286|[walls-and-gates](https://leetcode.com/problems/walls-and-gates)|:lock:|[:memo:](https://leetcode.com/articles/walls-and-gates/)|Medium|
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)||[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
 |288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
-|289|[game-of-life](https://leetcode.com/problems/game-of-life)|||Medium|
+|289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|[word-pattern](https://leetcode.com/problems/word-pattern)|||Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
 |292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
