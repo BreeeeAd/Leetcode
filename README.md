@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2019-05-16 17:13:35
+Update time:  2019-05-20 13:37:03
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **163   /   994** problems
+I have solved **164   /   998** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -59,7 +59,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/042-trapping-rain-water/trapping-rain-water.java)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|||Medium|
-|44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
+|44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)||[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/046-permutations/permutations.java)|[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/047-permutations-ii/permutations-ii.java)||Medium|
@@ -115,7 +115,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)||[:memo:](https://leetcode.com/articles/validate-binary-search-tree/)|Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
-|100|[same-tree](https://leetcode.com/problems/same-tree)||[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
+|100|[same-tree](https://leetcode.com/problems/same-tree)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/100-same-tree/same-tree.java)|[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/101-symmetric-tree/symmetric-tree.java)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|[Java](https://github.com/BreeeeAd/Leetcode/blob/master/solutions/103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.java)||Medium|
@@ -1010,3 +1010,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
 |1121|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
 |1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)|||Hard|
+|1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
+|1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|||Easy|
+|1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
+|1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
